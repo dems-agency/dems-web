@@ -7,14 +7,14 @@ address: Jardi es de veracruz, del restaurante Tauro 2 cuadras abajo y 15 varas 
 phone_movistar: tel:+50586889998
 phone_claro: tel:+50586914848
 website: http://www.dems-agency.com
-facebook: https://www.facebook.com/dems
+facebook: https://www.facebook.com/demsagency
 twitter: https://twitter.com/dems
 instagram: https://www.instagram.com/dems
 youtube: https://www.youtube.com/channel/UCqV-51GPkWR2mSMS_GcimsQ
 linkedin: https://www.linkedin.com/company/dems
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://osmarcuadra.github.io/chocoyo_web" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dems-agency.github.io/dems-web" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
