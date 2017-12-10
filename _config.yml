@@ -14,7 +14,7 @@ youtube: https://www.youtube.com/channel/UCqV-51GPkWR2mSMS_GcimsQ
 linkedin: https://www.linkedin.com/company/dems
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://dems-agency.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dems-agency.github.io/dems-web/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
