@@ -357,7 +357,7 @@ overflow:hidden;
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: #03a9f4;
+  background-color: #039BE5;
   overflow: hidden;
   width: 100%;
   height: 0;
@@ -442,14 +442,14 @@ filter: grayscale(70%);
    text-decoration: none;
 }
 .contact-info a:hover{
-  color:#03a9f4;
+  color:#039BE5;
 }
 #back-to-top {
   position: fixed;
   bottom: 30px;
   right: 5px;
   z-index: 9999; 
-  background: #03a9f4;
+  background: #039BE5;
   color: #FFFFFF;
   cursor: pointer;
   border: 0;
@@ -560,7 +560,7 @@ filter: grayscale(70%);
     bottom: 0;
     right: 0;
     margin: 0;
-    background-color: rgba(3,169,244, 0.90);
+    background-color: rgba(3,155,229, 0.90);
     opacity: 0;
     -webkit-transition: all 0.3s;
     transition: all 0.3s;
@@ -857,13 +857,13 @@ font-style: italic;
 
 		}
 #menu-close:hover{
-    color: #D500F9;
+    color: #03A9F4;
 }
 .btn-purple {
   color: #ffffff;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
-  background-color: #03a9f4;
-  *background-color: #03a9f4;
+  background-color: #039BE5;
+  *background-color: #039BE5;
   background-repeat: repeat-x;
   border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff0088cc', endColorstr='#ff0044cc', GradientType=0);
@@ -1002,7 +1002,7 @@ font-style: italic;
 	height: 50px;
 	margin-left: -25px;
 	margin-top: -25px;
-	background-color: #03a9f4;
+	background-color: #039BE5;
 	-webkit-animation: sk-rotateplane 1.2s infinite ease-in-out;
 	animation: sk-rotateplane 1.2s infinite ease-in-out;
 }
@@ -1360,7 +1360,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 }
 
 .popup-modal .link-box a:hover {
-	background: #03a9f4;
+	background: #039BE5;
     text-decoration: none;
 	color: #000000;
 	border: none;
@@ -1503,8 +1503,8 @@ button.stroke.large, .button.stroke.large {
 }
 
 button.stroke:hover, .button.stroke:hover {
-  border: 3px solid #03a9f4;
-  color: #03a9f4;
+  border: 3px solid #039BE5;
+  color: #039BE5;
 }
 
 button::-moz-focus-inner,
@@ -1788,7 +1788,7 @@ filter: brightness(50%);
 }
 
 #contact a, #contact a:visited  { color: #C4C4C4; }
-#contact a:hover, #contact a:focus { color: #03a9f4; }
+#contact a:hover, #contact a:focus { color: #039BE5; }
 
 #contact .section-head { margin-bottom: 42px; }
 #contact .section-head h2 { color: #c3c3c3; }
@@ -1824,14 +1824,14 @@ filter: brightness(50%);
 #contact textarea:focus,
 #contact select:focus {
 	color: #fff;
-	background-color: #03a9f4;
+	background-color: #039BE5;
 }
 #contact button.submit {
 	font: 18px/30px montserrat-bold, sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	color:#fff;
-	background: #03a9f4;
+	background: #039BE5;
    padding: 18px 30px;
 	border: none;
    cursor: pointer;
@@ -1850,7 +1850,7 @@ filter: brightness(50%);
 	background: #fff;
 }
 #contact span.required {
-	color: #03a9f4;
+	color: #039BE5;
 	font-size: 13px;
 }
 
@@ -1862,7 +1862,7 @@ filter: brightness(50%);
    width: 88%;
 }
 #message-warning { color: #D72828; }
-#message-success { color: #03a9f4; }
+#message-success { color: #039BE5; }
 
 #message-warning i,
 #message-success i {
@@ -1895,7 +1895,7 @@ footer {
    font-size: 14px;
 }
 footer a, footer a:visited { color: #c2c2c2; padding: 10px; }
-footer a:hover, footer a:focus { color: #03a9f4; }
+footer a:hover, footer a:focus { color: #039BE5; }
 
 /* copyright */
 footer .copyright {
@@ -1916,7 +1916,7 @@ footer .copyright li:before {
     content: "|";
     padding-left: 10px;
     padding-right: 10px;
-    color: #03a9f4;
+    color: #039BE5;
 }
 footer .copyright  li:first-child:before {
     display: none;
@@ -1978,7 +1978,7 @@ footer .social-links li:first-child { margin-left: 0; }
 .post .post-meta a,
 .post .post-meta a:visited { color: #B9BBBC; }
 .post .post-meta a:hover,
-.post .post-meta a:focus { color: #03a9f4; }
+.post .post-meta a:focus { color: #039BE5; }
 
 .post .post-meta .date {
    margin-bottom: 18px;
@@ -2034,7 +2034,7 @@ footer .social-links li:first-child { margin-left: 0; }
 #blog-entries .post .entry-header h1 a,
 #blog-entries .post .entry-header h1 a:visited { color: #313131; }
 #blog-entries .post .entry-header h1 a:hover,
-#blog-entries .post .entry-header h1 a:focus { color: #03a9f4; }
+#blog-entries .post .entry-header h1 a:focus { color: #039BE5; }
 
 #blog-entries .post .post-content p {
   font: 20px/36px opensans-light, sans-serif;
@@ -2060,7 +2060,7 @@ footer .social-links li:first-child { margin-left: 0; }
    -khtml-border-radius: 2px;
 	border-radius: 2px;
 }
-#blog-entries .post-content a.more-link:hover { background: #03a9f4; }
+#blog-entries .post-content a.more-link:hover { background: #039BE5; }
 #blog-entries .post-content a.more-link i { margin-left: 10px; }
 
 /* Pagination */
@@ -2087,7 +2087,7 @@ footer .social-links li:first-child { margin-left: 0; }
    display: inline;
    margin-right: 15px;
 }
-#bottom-block .blog-categories li.current a { color: #03a9f4; }
+#bottom-block .blog-categories li.current a { color: #039BE5; }
 #bottom-block .blog-categories a { color: #A0A6AB; }
 #bottom-block .blog-categories a:hover { color: #5B6167; }
 
@@ -2095,7 +2095,7 @@ footer .social-links li:first-child { margin-left: 0; }
 #bottom-block .back-to-top a i { margin-left: 6px; }
 #bottom-block .back-to-top a {
    font: 14px/30px opensans-bold, sans-serif;
-   color: #03a9f4;
+   color: #039BE5;
 }
 
 
@@ -2199,7 +2199,7 @@ footer .social-links li:first-child { margin-left: 0; }
 	   width: 48px;
 		height: 48px;
 		text-align: left;
-		background-color: #03a9f4;
+		background-color: #039BE5;
 		position: relative;
       border: none;
       float: right;
@@ -2239,7 +2239,7 @@ footer .social-links li:first-child { margin-left: 0; }
       text-align: left;
    }
    .mobile #nav-wrap ul#nav > li.active a {
-      color: #03a9f4 !important;
+      color: #039BE5 !important;
       background: none;
    }
 
@@ -2539,7 +2539,7 @@ footer .social-links li:first-child { margin-left: 0; }
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	color:#fff;
-	background: #03a9f4;
+	background: #039BE5;
    padding: 18px 24px;
 	border: none;
    cursor: pointer;
@@ -2554,6 +2554,6 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 #comments form button.submit:hover { background: #3d4145; }
 #comments form span.required {
-	color: #03a9f4;
+	color: #039BE5;
 	font-size: 13px;
 }

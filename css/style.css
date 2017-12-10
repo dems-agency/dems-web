@@ -53,7 +53,7 @@ Header
 
 .navbar-default .navbar-nav > .active > a,.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus
 {
-	border-bottom: 2px solid #03a9f4;
+	border-bottom: 2px solid #039BE5;
     color: #FFF;
     outline: none;
 }
@@ -72,7 +72,7 @@ Header
 }
 
 .navbar-default .navbar-brand {
-    color: #03a9f4;
+    color: #039BE5;
 }
 
 .navbar-default .navbar-nav > li > a {
@@ -130,7 +130,7 @@ a.btn-banner i
 }
 a.btn-banner:hover, a.btn-banner:focus
 {
-    background-color: #03a9f4;
+    background-color: #039BE5;
     color: #fff;
     border-color: #E74C3C;
     display: inline-block;
@@ -171,7 +171,7 @@ a.btn-banner:hover, a.btn-banner:focus
 }
 .cta-1, .cta2
 {
-	background-color: #03a9f4;
+	background-color: #039BE5;
 	padding: 40px 0px;
 }
 p.cta-sub-title
@@ -182,7 +182,7 @@ p.cta-sub-title
 {
 	width: 100px;
 	height: 3px;
-	background-color: #03a9f4;
+	background-color: #039BE5;
 }
 .service-box {
     display: inline-block;
@@ -208,7 +208,7 @@ p.cta-sub-title
 }
 .service-box .service-icon:hover{
   background-color: #FFF;
-  color: #03a9f4;
+  color: #039BE5;
 }
 .service-box .service-icon i{
     margin: 0 auto;
@@ -262,7 +262,7 @@ p.cta-sub-title
 }
 .fil-btn .active
 {
-	background-color: #03a9f4;
+	background-color: #039BE5;
 }
 .img-sec, .fig-caption
 {
@@ -387,7 +387,7 @@ margin-top: 5px;
 }
 
 .button-medium {
-    background: #03a9f4;
+    background: #039BE5;
     border-radius: 40px;
     color: #ffffff;
     display: inline-block;
@@ -405,7 +405,7 @@ margin-top: 5px;
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
-    border: 1px solid #03a9f4;
+    border: 1px solid #039BE5;
     box-shadow: none;
     outline: none;
     -webkit-transition: all 0.5s ease 0s;
@@ -486,7 +486,7 @@ margin-top: 5px;
     margin-bottom: 0;
 }
 .footer_copyright a {
-    color: #03a9f4;
+    color: #039BE5;
 }
 #banner
 {
